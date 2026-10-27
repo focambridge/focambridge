@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @focambridge
 - 👀 I’m interested in AI modelling, event driven distribted architectures, recursion, logic and innovation
 - I am currently learning (and have been since I can remember, and before).
-- 💞️ I’m looking to collaborate on - nothing for now, committed to working for and with Cambridge
-- 📫 How to reach me - colleagues only, I'm afraid.
+- 💞️ I’m looking to collaborate on - security and defence, currently working with Cambridge University but can relocate to London
+- 📫 How to reach me - LinkedIn.
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: I have done improvised live comedy for the BBC
 
